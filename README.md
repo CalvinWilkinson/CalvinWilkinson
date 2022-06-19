@@ -19,5 +19,11 @@ ladder logic, C++, C#, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, Cos
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinwilkinson&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinwilkinson&show_icons=true&theme=tokyonight)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinwilkinson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KinsonDigital&repo=Velaptor)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KinsonDigital&repo=CASL)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KinsonDigital&repo=VersionMiner)](https://github.com/anuraghazra/github-readme-stats)
