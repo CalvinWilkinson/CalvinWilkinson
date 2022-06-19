@@ -9,7 +9,7 @@ ladder logic, C++, C#, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, Cos
 ### More About Me
 🎖 I am a military veteran with a lot of military history in my family.  
 💻 Senior Software Engineer  
-🤘🏼 I am also the creator and maintainer of various open source projects.
+🤘🏼 I am also the creator and maintainer of various open source projects.  
 ![](https://img.shields.io/twitter/follow/KDCoder?label=Kinson%20Digital&style=social)
 
 
