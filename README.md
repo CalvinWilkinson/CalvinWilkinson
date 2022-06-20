@@ -1,25 +1,24 @@
-## **Hello, 👋 I am Calvin Wilkinson!**
+## **Hello, 👋 I'm Calvin Wilkinson!**
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KDCoder)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kinsondigital)
 
 Thanks for stopping by!! ![](https://visitor-badge.glitch.me/badge?page_id=CalvinWilkinson.CalvinWilkinson&style=flat-square&color=0088cc)
 
-I am a software engineer that has been passionate about anything software development for many many years.  I love to build things that make things easier for people and also things that are game development and multi-media application related.
+I am a software engineer that has been passionate about anything in software development for many years.  I love to build things that make people's lives easier, and develop games and multi-media applications.
 
 <details closed><summary><b>TLDR; A little more about me . . .</b></summary>
 
-🎖 I am a military veteran with a lot of military history in my family.  
+🎖 I am an Air Force veteran with a lot of military history in my family.  
 💻 Software Engineer  
-⚒️ Currently working game development related tools and libraries.  
+⚒️ Currently working on game development related tools and libraries.  
 🤘🏼 Metal, hard rock, classic rock and blues fan.  
 📫 How to reach me: kinsondigital@gmail.com or [twitter](https://twitter.com/KDCoder)  
 🗨️ Ask me about anything tech related!!  Maybe I can help out!!  
-🙏 Help me out by checking out my projects and sling some ⭐'s my way, or even better, create a PR and contribute!! 😉
+🙏 Give me a hand by checking out my projects and sling some ⭐'s my way, or even better, create a PR and contribute!! 😉
 
-I have been into computers and technology going back to when I first started in high school.  I started poking around and getting interested in computers in 1998.
-My brother at the time was taking a class in high school for **Visual Basic 4** and I picked it up one day and I was instantly hooked. The rest is history!!
+I started poking around and getting interested in computers and technology in 1998.  My brother was taking a class for **Visual Basic 4**. I picked it up one day and I was instantly hooked. The rest is history!!
 
-I have worked with various industries from things such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  In those industries I have done website front end, backend, low level PLC controls and ModBus communications.  Cross platform mobile apps, databases, and the cloud using Azure.  I have also worked on large enterprise applications using micro-services to old legacy systems for small companies.   Some of the languages and technologies that I have dealt with are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python and more.
+I have worked with various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed website front end, backend, low level PLC controls and ModBus communications, cross platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications, to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python and more.
 </details>
 
 <br/>
