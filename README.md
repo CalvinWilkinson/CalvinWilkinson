@@ -51,7 +51,7 @@ I have worked with various industries such as the steel industry, industrial aut
 <a href="https://nodejs.org/en/" target="_blank">
     <img style="margin-left: 10px" align="left" src="https://raw.githubusercontent.com/CalvinWilkinson/CalvinWilkinson/master/assets/nodejs-logo.png" alt="nodejs" height="35px"/>
 </a>
-<a href="https://nodejs.org/en/" target="_blank">
+<a href="https://deno.com/runtime" target="_blank">
     <img style="margin-left: 10px" align="left" src="https://raw.githubusercontent.com/CalvinWilkinson/CalvinWilkinson/master/assets/deno-logo.png" alt="deno" height="35px"/>
 </a>
 <a href="https://www.jetbrains.com/rider/" target="_blank">
