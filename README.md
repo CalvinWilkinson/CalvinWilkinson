@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KDCoder)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kinsondigital)
 
-Thanks for stopping by!! ![](https://visitor-badge.glitch.me/badge?page_id=CalvinWilkinson.CalvinWilkinson&style=flat-square&color=0088cc)
+Thanks for stopping by!! ![Custom badge](https://img.shields.io/endpoint?color=0088cc&label=Visitors&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2FCalvinWilkinson%2FCalvinWilkinson.json)
 
 I am a software engineer that has been passionate about anything in software development for many years.  I love to build things that make people's lives easier, and develop games and multi-media applications.
 
@@ -14,7 +14,7 @@ I am a software engineer that has been passionate about anything in software dev
 🤘🏼 Metal, hard rock, classic rock and blues fan.  
 📫 How to reach me: kinsondigital@gmail.com or [twitter](https://twitter.com/KDCoder)  
 🗨️ Ask me about anything tech related!!  Maybe I can help out!!  
-🙏 Give me a hand by checking out my projects and sling some ⭐'s my way, or even better, create a PR and contribute!! 😉
+🙏 Please help me out by checking out my projects and slinging some ⭐'s my way, or even better, create a PR and/or contribute your funds [here](https://github.com/sponsors/KinsonDigital)!! 😉
 
 I started poking around and getting interested in computers and technology in 1998.  My brother was taking a class for **Visual Basic 4**. I picked it up one day and I was instantly hooked. The rest is history!!
 
@@ -51,6 +51,9 @@ I have worked with various industries such as the steel industry, industrial aut
 <a href="https://nodejs.org/en/" target="_blank">
     <img style="margin-left: 10px" align="left" src="https://raw.githubusercontent.com/CalvinWilkinson/CalvinWilkinson/master/assets/nodejs-logo.png" alt="nodejs" height="35px"/>
 </a>
+<a href="https://nodejs.org/en/" target="_blank">
+    <img style="margin-left: 10px" align="left" src="https://raw.githubusercontent.com/CalvinWilkinson/CalvinWilkinson/master/assets/deno-logo.png" alt="nodejs" height="35px"/>
+</a>
 <a href="https://www.jetbrains.com/rider/" target="_blank">
     <img style="margin-left: 10px" align="left" src="https://raw.githubusercontent.com/CalvinWilkinson/CalvinWilkinson/master/assets/jetbrains-rider-logo.png" alt="jetbrains rider" height="35px"/>
 </a>
@@ -74,14 +77,14 @@ I have worked with various industries such as the steel industry, industrial aut
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Pull Requests</b></td>
+            <td><b><img src="./assets/pull-request.png" width="9%"/>Pull Requests</b></td>
             <td><b>👨‍💻 Language</b></td>
         </tr>
     </thead>
     <tbody>
         <!-- VELAPTOR -->
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://github.com/KinsonDigital/Velaptor">
                     <b style="margin-bottom: 10px">Velaptor</b>
                 </a>
@@ -104,7 +107,7 @@ I have worked with various industries such as the steel industry, industrial aut
         </tr>
         <!-- CASL -->
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://github.com/KinsonDigital/CASL">
                     <b style="margin-bottom: 10px">CASL</b>
                 </a>
@@ -125,6 +128,29 @@ I have worked with various industries such as the steel industry, industrial aut
                 <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/CASL?style=flat-square"/>
             </td>
         </tr>
+        <!-- CARBONATE -->
+        <tr>
+            <td align="center">
+                <a href="https://github.com/KinsonDigital/Carbonate">
+                    <b style="margin-bottom: 10px">Carbonate</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/Carbonate?style=flat-square&labelColor=343b41"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/Carbonate?style=flat-square&labelColor=343b41"/>
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/Carbonate?style=flat-square"/>
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/Carbonate?style=flat-square"/>
+            </td>
+            <td>
+                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/Carbonate?style=flat-square"/>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -139,7 +165,7 @@ I have worked with various industries such as the steel industry, industrial aut
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Pull Requests</b></td>
+            <td><b><img src="./assets/pull-request.png" width="9%"/> Pull Requests</b></td>
             <td><b>👨‍💻 Language</b></td>
         </tr>
     </thead>
@@ -193,93 +219,24 @@ I have worked with various industries such as the steel industry, industrial aut
         <!-- GOTNUGET -->
         <tr>
             <td>
-                <a href="https://github.com/KinsonDigital/GotNuget">
+                <a href="https://github.com/KinsonDigital/PackageMonster">
                     <b style="margin-bottom: 10px">Got Nuget</b>
                 </a>
             </td>
             <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/GotNuget?style=flat-square&labelColor=343b41"/>
+                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/PackageMonster?style=flat-square&labelColor=343b41"/>
             </td>
             <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/GotNuget?style=flat-square&labelColor=343b41"/>
+                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/PackageMonster?style=flat-square&labelColor=343b41"/>
             </td>
             <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/GotNuget?style=flat-square"/>
+                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/PackageMonster?style=flat-square"/>
             </td>
             <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/GotNuget?style=flat-square"/>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/PackageMonster?style=flat-square"/>
             </td>
             <td>
-                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/GotNuget?style=flat-square"/>
-            </td>
-        </tr>
-        <!-- TAGVERIFIER -->
-        <tr>
-            <td>
-                <a href="https://github.com/KinsonDigital/TagVerifier">
-                    <b style="margin-bottom: 10px">Tag Verifier</b>
-                </a>
-            </td>
-            <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/TagVerifier?style=flat-square&labelColor=343b41"/>
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/TagVerifier?style=flat-square&labelColor=343b41"/>
-            </td>
-            <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/TagVerifier?style=flat-square"/>
-            </td>
-            <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/TagVerifier?style=flat-square"/>
-            </td>
-            <td>
-                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/TagVerifier?style=flat-square"/>
-            </td>
-        </tr>
-        <!-- VERSIONVALIDATOR -->
-        <tr>
-            <td>
-                <a href="https://github.com/KinsonDigital/VersionValidator">
-                    <b style="margin-bottom: 10px">Version Validator</b>
-                </a>
-            </td>
-            <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/VersionValidator?style=flat-square&labelColor=343b41"/>
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/VersionValidator?style=flat-square&labelColor=343b41"/>
-            </td>
-            <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/VersionValidator?style=flat-square"/>
-            </td>
-            <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/VersionValidator?style=flat-square"/>
-            </td>
-            <td>
-                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/VersionValidator?style=flat-square"/>
-            </td>
-        </tr>
-        <!-- ISSUESCANNER -->
-        <tr>
-            <td>
-                <a href="https://github.com/KinsonDigital/IssueScanner">
-                    <b style="margin-bottom: 10px">Issue Scanner</b>
-                </a>
-            </td>
-            <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/IssueScanner?style=flat-square&labelColor=343b41"/>
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/IssueScanner?style=flat-square&labelColor=343b41"/>
-            </td>
-            <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/IssueScanner?style=flat-square"/>
-            </td>
-            <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/IssueScanner?style=flat-square"/>
-            </td>
-            <td>
-                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/IssueScanner?style=flat-square"/>
+                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/PackageMonster?style=flat-square"/>
             </td>
         </tr>
     </tbody>
