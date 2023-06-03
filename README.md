@@ -6,8 +6,6 @@ Thanks for stopping by!! ![Custom badge](https://img.shields.io/endpoint?color=0
 
 I am a software engineer that has been passionate about anything in software development for many years.  I love to build things that make people's lives easier, and develop games and multi-media applications.
 
-<details closed><summary><b>TLDR; A little more about me . . .</b></summary>
-
 🎖 I am an Air Force veteran with a lot of military history in my family.  
 💻 Software Engineer  
 ⚒️ Currently working on game development related tools and libraries.  
@@ -19,7 +17,8 @@ I am a software engineer that has been passionate about anything in software dev
 I started poking around and getting interested in computers and technology in 1998.  My brother was taking a class for **Visual Basic 4**. I picked it up one day and I was instantly hooked. The rest is history!!
 
 I have worked with various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed website front end, backend, low level PLC controls and ModBus communications, cross platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications, to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python and more.
-</details>
+
+Now days I work full time on building game development and CICD tools and libraries.
 
 <br/>
 
@@ -220,7 +219,7 @@ I have worked with various industries such as the steel industry, industrial aut
         <tr>
             <td>
                 <a href="https://github.com/KinsonDigital/PackageMonster">
-                    <b style="margin-bottom: 10px">Got Nuget</b>
+                    <b style="margin-bottom: 10px">Package Monster</b>
                 </a>
             </td>
             <td>
