@@ -11,7 +11,7 @@ I'm a software engineer that's been passionate about anything in software develo
 💻 Software Engineer  
 ⚒️ Currently working on game development related tools and libraries.  
 🤘🏼 Metal, hard rock, classic rock and blues fan.  
-📫 Feel free to email me: kinsondigital@gmail.com
+📫 Feel free to email me: kinsondigital@gmail.com  
 🗨️ Ask me about anything tech related!!  Maybe I can help out!!  
 🙏 Please help me out by checking out my projects and slinging some ⭐'s my way, or even better, create a PR and/or contribute your funds [here](https://github.com/sponsors/KinsonDigital)!! 😉
 
@@ -19,7 +19,7 @@ I started poking around and getting interested in computers and technology in 19
 
 I have worked in various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed website front end, backend, low level PLC controls and ModBus communications, cross platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications, to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python and more.
 
-Nowadays I work full time on building game development and CICD tools and libraries.
+Currently, I work full time on building game development and CICD tools and libraries.
 
 <br/>
 
