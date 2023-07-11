@@ -1,5 +1,6 @@
 ## **Hello, 👋 I'm Calvin Wilkinson!**
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KDCoder)
+[![Discord](https://img.shields.io/discord/481597721199902720?color=%23575CCB&label=chat%20on%20discord&logo=discord&logoColor=white)](https://discord.gg/qewu6fNgv7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kinsondigital)
 
 Thanks for stopping by!! ![Custom badge](https://img.shields.io/endpoint?color=0088cc&label=Visitors&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2FCalvinWilkinson%2FCalvinWilkinson.json)
