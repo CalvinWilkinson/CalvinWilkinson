@@ -4,7 +4,7 @@
 
 Thanks for stopping by!! ![Custom badge](https://img.shields.io/endpoint?color=0088cc&label=Visitors&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2FCalvinWilkinson%2FCalvinWilkinson.json)
 
-I am a software engineer that has been passionate about anything in software development for many years.  I love to build things that make people's lives easier, and develop games and multi-media applications.
+I'm a software engineer that's been passionate about anything in software development for as long as I can remember.  I love to build things that make peoples' lives easier, and develop games and multi-media applications.
 
 🎖 I am an Air Force veteran with a lot of military history in my family.  
 💻 Software Engineer  
@@ -16,9 +16,9 @@ I am a software engineer that has been passionate about anything in software dev
 
 I started poking around and getting interested in computers and technology in 1998.  My brother was taking a class for **Visual Basic 4**. I picked it up one day and I was instantly hooked. The rest is history!!
 
-I have worked with various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed website front end, backend, low level PLC controls and ModBus communications, cross platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications, to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python and more.
+I have worked in various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed website front end, backend, low level PLC controls and ModBus communications, cross platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications, to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python and more.
 
-Now days I work full time on building game development and CICD tools and libraries.
+Nowadays I work full time on building game development and CICD tools and libraries.
 
 <br/>
 
