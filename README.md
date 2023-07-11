@@ -7,11 +7,11 @@ Thanks for stopping by!! ![Custom badge](https://img.shields.io/endpoint?color=0
 
 I'm a software engineer that's been passionate about anything in software development for as long as I can remember.  I love to build things that make peoples' lives easier, and develop games and multi-media applications.
 
-🎖 I am an Air Force veteran with a lot of military history in my family.  
+🎖  Air Force veteran with a lot of military history in my family.  
 💻 Software Engineer  
 ⚒️ Currently working on game development related tools and libraries.  
 🤘🏼 Metal, hard rock, classic rock and blues fan.  
-📫 How to reach me: kinsondigital@gmail.com or [twitter](https://twitter.com/KDCoder)  
+📫 Feel free to email me: kinsondigital@gmail.com
 🗨️ Ask me about anything tech related!!  Maybe I can help out!!  
 🙏 Please help me out by checking out my projects and slinging some ⭐'s my way, or even better, create a PR and/or contribute your funds [here](https://github.com/sponsors/KinsonDigital)!! 😉
 
