@@ -5,27 +5,28 @@
 [![Blog](https://img.shields.io/badge/Blog-1b95c5?label=KinsonDigital&labelColor=303030)](https://kinsondigital.github.io/blog/)
 [![Discord](https://img.shields.io/discord/481597721199902720?color=%23575CCB&label=chat%20on%20discord&logo=discord&logoColor=white)](https://discord.gg/qewu6fNgv7)
 
-Thanks for stopping by!! ![Custom badge](https://img.shields.io/endpoint?color=0088cc&label=Visitors&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2FCalvinWilkinson%2FCalvinWilkinson.json)
+Thanks for stopping by!!
 
-I'm a software engineer that's been passionate about anything in software development for as long as I can remember.  I love to build things that make peoples' lives easier, and develop games and multi-media applications.
+I'm a software engineer that's been passionate about anything in software development for as long as I can remember.  I love to build things that make people's lives easier and develop games and multimedia applications.
 
 🎖  Air Force veteran with a lot of military history in my family.  
 💻 Software Engineer  
-⚒️ Currently working on game development related tools and libraries.  
-🤘🏼 Metal, hard rock, classic rock and blues fan.  
+⚒️ Currently working on game development-related tools and libraries.  
+🤘🏼 Metal, hard rock, classic rock, and blues fan.  
 📫 Feel free to email me: kinsondigital@gmail.com  
 🗨️ Ask me about anything tech related!!  Maybe I can help out!!  
 🙏 Please help me out by checking out my projects and slinging some ⭐'s my way, or even better, create a PR and/or contribute your funds [here](https://github.com/sponsors/KinsonDigital)!! 😉
 
 I started poking around and getting interested in computers and technology in 1998.  My brother was taking a class for **Visual Basic 4**. I picked it up one day and I was instantly hooked. The rest is history!!
 
-I have worked in various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed website front end, backend, low level PLC controls and ModBus communications, cross platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications, to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python and more.
+I have worked in various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed the website front end, backend, low-level PLC controls and ModBus communications, cross-platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python, and more.
 
-Currently, I work full time on building game development and CICD tools and libraries.
+Currently, I work full-time on building game development and CICD tools and libraries.
 
 <br/>
 
 ## **Github Stats**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinwilkinson&show_icons=true&theme=tokyonight)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinwilkinson&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
