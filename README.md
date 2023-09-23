@@ -5,6 +5,8 @@
 [![Blog](https://img.shields.io/badge/Blog-1b95c5?label=KinsonDigital&labelColor=303030)](https://kinsondigital.github.io/blog/)
 [![Discord](https://img.shields.io/discord/481597721199902720?color=%23575CCB&label=chat%20on%20discord&logo=discord&logoColor=white)](https://discord.gg/qewu6fNgv7)
 
+Check out my bio drop page for more links!! [BioDrop](https://www.biodrop.io/CalvinWilkinson)
+
 Thanks for stopping by!!
 
 I'm a software engineer that's been passionate about anything in software development for as long as I can remember.  I love to build things that make people's lives easier and develop games and multimedia applications.
@@ -22,6 +24,11 @@ I started poking around and getting interested in computers and technology in 19
 I have worked in various industries such as the steel industry, industrial automation, retail, consulting, and even the world of taxes.  I developed the website front end, backend, low-level PLC controls and ModBus communications, cross-platform mobile apps, databases, and microservices architecture backend using Azure.  I have also worked from large enterprise applications to small companies with legacy systems.   Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, SQL, MongoDB, Entity Framework, Python, and more.
 
 Currently, I work full-time on building game development and CICD tools and libraries.
+
+If you are interested in supporting the work I do so I can make these projects better, sponsor me at:
+- ![Static Badge](https://img.shields.io/badge/GitHub_Sponsors-gray?logo=github%20sponsors)
+- ![Static Badge](https://img.shields.io/badge/OpenCollective-white?logo=opencollective)
+
 
 <br/>
 
