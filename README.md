@@ -29,6 +29,8 @@ If you are interested in supporting the work I do so I can make these projects b
 - ![Static Badge](https://img.shields.io/badge/GitHub_Sponsors-gray?logo=github%20sponsors)
 - ![Static Badge](https://img.shields.io/badge/OpenCollective-white?logo=opencollective)
 
+## **HoloPin**
+[![An image of @calvinwilkinson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/calvinwilkinson)](https://holopin.io/@calvinwilkinson)
 
 <br/>
 
