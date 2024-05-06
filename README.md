@@ -5,18 +5,16 @@
 [![Blog](https://img.shields.io/badge/Blog-1b95c5?label=KinsonDigital&labelColor=303030)](https://kinsondigital.github.io/blog/)
 [![Discord](https://img.shields.io/discord/481597721199902720?color=%23575CCB&label=chat%20on%20discord&logo=discord&logoColor=white)](https://discord.gg/qewu6fNgv7)
 
-Check out my bio drop page for more links!! [BioDrop](https://www.biodrop.io/CalvinWilkinson)
-
 Thanks for stopping by!!
 
-I'm a software engineer that's been passionate about anything in software development for as long as I can remember.  I love to build things that make people's lives easier and develop games and multimedia applications.
+I'm a software engineer who's been passionate about anything in software development for as long as I can remember.  I love to build things that make people's lives easier and develop games and multimedia applications.
 
 🎖  Air Force veteran with a lot of military history in my family.  
 💻 Software Engineer  
 ⚒️ Currently working on game development-related tools and libraries.  
 🤘🏼 Metal, hard rock, classic rock, and blues fan.  
 📫 Feel free to email me: kinsondigital@gmail.com  
-🗨️ Ask me about anything tech related!!  Maybe I can help out!!  
+🗨️ Ask me about anything tech-related!!  Maybe I can help out!!  
 🙏 Please help me out by checking out my projects and slinging some ⭐'s my way, or even better, create a PR and/or contribute your funds [here](https://github.com/sponsors/KinsonDigital)!! 😉
 
 I started poking around and getting interested in computers and technology in 1998.  My brother was taking a class for **Visual Basic 4**. I picked it up one day and I was instantly hooked. The rest is history!!
