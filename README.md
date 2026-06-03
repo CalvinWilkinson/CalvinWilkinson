@@ -27,8 +27,10 @@ I have worked in various industries, including steel, industrial automation, ret
 Currently, I work full-time on building game development and CICD tools and libraries.
 
 If you are interested in supporting the work I do so I can make these projects better, sponsor me at:
-- ![Static Badge](https://img.shields.io/badge/GitHub_Sponsors-gray?logo=github%20sponsors)
-- ![Static Badge](https://img.shields.io/badge/OpenCollective-white?logo=opencollective)
+
+- [![GitHub Sponsors](https://img.shields.io/github/sponsors/KinsonDigital?logo=github%20sponsors&label=GitHub%20Sponsors)](https://github.com/sponsors/KinsonDigital)
+- [![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/kinsondigital?logo=opencollective&label=Open%20Collective)
+](https://opencollective.com/kinsondigital)
 - [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-F16061?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/kinsondigital)
 
 <br/>
