@@ -111,6 +111,52 @@ If you are interested in supporting the work I do so I can make these projects b
                 <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/Velaptor?style=flat-square"/>
             </td>
         </tr>
+        <!-- VELAPTOR TEMPLATES -->
+        <tr>
+            <td align="center">
+                <a href="https://github.com/KinsonDigital/VelaptorTemplates">
+                    <b style="margin-bottom: 10px">VelaptorTemplates</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/VelaptorTemplates?style=flat-square&labelColor=343b41"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/VelaptorTemplates?style=flat-square&labelColor=343b41"/>
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/VelaptorTemplates?style=flat-square"/>
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/VelaptorTemplates?style=flat-square"/>
+            </td>
+            <td>
+                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/VelaptorTemplates?style=flat-square"/>
+            </td>
+        </tr>
+        <!-- VELAPTOR ASEPRITE -->
+        <tr>
+            <td align="center">
+                <a href="https://github.com/KinsonDigital/VelaptorAseprite">
+                    <b style="margin-bottom: 10px">VelaptorAseprite</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/KinsonDigital/VelaptorAseprite?style=flat-square&labelColor=343b41"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/KinsonDigital/VelaptorAseprite?style=flat-square&labelColor=343b41"/>
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/KinsonDigital/VelaptorAseprite?style=flat-square"/>
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KinsonDigital/VelaptorAseprite?style=flat-square"/>
+            </td>
+            <td>
+                <img alt="Language" src="https://img.shields.io/github/languages/top/KinsonDigital/VelaptorAseprite?style=flat-square"/>
+            </td>
+        </tr>
         <!-- CASL -->
         <tr>
             <td align="center">
