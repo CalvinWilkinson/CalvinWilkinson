@@ -10,21 +10,25 @@
 
 Thanks for stopping by!!
 
+I build game development tools and libraries.  I am the creator and maintainer of [Velaptor](https://docs.velaptor.io).
+
 I'm a software engineer who's been passionate about anything in software development for as long as I can remember. I love building things that make people's lives easier and developing games and multimedia applications.
 
-🎖  Air Force veteran with a lot of military history in my family.  
+🎖 Air Force veteran with a lot of military history in my family.  
 💻 Software Engineer  
 ⚒️ Currently working on game development-related tools and libraries.  
 🤘🏼 Metal, hard rock, classic rock, and blues fan.  
-📫 Feel free to email me: calvin@kinsondigital.net
-🗨️ Ask me about anything tech-related!! Maybe I can help out!!
+📫 Feel free to email me: calvin@kinsondigital.net  
+🗨️ Ask me about anything tech-related!! Maybe I can help out!!  
 🙏 Please help me out by checking out my projects and slinging some ⭐'s my way, or even better, create a PR and/or contribute your funds [here](https://github.com/sponsors/KinsonDigital)!! 😉
 
+<details><summary>A little more about me (TLDR)</summary>
+ 
 I started poking around and getting interested in computers and technology in 1998. My brother was taking a class for **Visual Basic 4**. I picked it up one day, and I was instantly hooked. The rest is history!!
 
-I have worked in various industries, including steel, industrial automation, retail, consulting, and even tax. I developed the website front-end and back-end, low-level PLC controls and Modbus communication, cross-platform mobile apps, databases, and a microservices architecture backend using Azure. I have also worked on large enterprise applications and small companies with legacy systems. Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, MongoDB, Entity Framework, Python, and more.
+I have worked in various industries, including steel, industrial automation, retail, consulting, and even tax. I developed website front-end and back-end, low-level PLC controls and Modbus communication, cross-platform mobile apps, databases, and a microservices architecture backend using Azure. I have also worked on large enterprise applications, and legacy systems at small companies. Some of the languages and technologies that I have used are C#, C++, SQL, TypeScript, JavaScript, NodeJS, Azure Functions, CosmosDB, MongoDB, Entity Framework, Python, and more.
 
-Currently, I work full-time on building game development and CI/CD tools and libraries.
+</details>
 
 If you are interested in supporting the work I do so I can make these projects better, sponsor me at:
 
