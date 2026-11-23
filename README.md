@@ -18,7 +18,6 @@ I'm a software engineer who's been passionate about anything in software develop
 💻 Software Engineer  
 ⚒️ Currently working on game development-related tools and libraries.  
 🤘🏼 Metal, hard rock, classic rock, and blues fan.  
-📫 Feel free to email me: calvin@kinsondigital.net  
 🗨️ Ask me about anything tech-related!! Maybe I can help out!!  
 🙏 Please help me out by checking out my projects and slinging some ⭐'s my way, or even better, create a PR and/or contribute your funds [here](https://github.com/sponsors/KinsonDigital)!! 😉
 
